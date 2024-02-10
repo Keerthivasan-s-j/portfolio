@@ -1,4 +1,12 @@
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px; 
+}
+
+pre {
+    font-family: Arial, sans-serif;
+    font-size: 16px; 
+}
 h1{
     font-style: italic;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
