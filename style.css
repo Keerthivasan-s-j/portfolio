@@ -1,3 +1,7 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
 p {
     font-family: Arial, sans-serif;
     font-size: 16px; 
@@ -9,4 +13,9 @@ pre {
 }
 h1{
     font-style: italic;
+}
+.copyright{
+    font-family:Roboto;
+    font-weight: 100;
+    color: grey;
 }
