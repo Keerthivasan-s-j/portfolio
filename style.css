@@ -1,3 +1,40 @@
+.navbar{
+    font-family: calibri;
+    background-color: rgb(237, 9, 9);
+    text-decoration: none;
+
+}
+
+.topnav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo a{
+    color: white;
+    font-size: 40px;
+    font-weight:700;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
+ul a{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    }
+
+button{
+    background-color: aqua;
+}
+
 body{
     font-family: Arial, sans-serif;
 }
